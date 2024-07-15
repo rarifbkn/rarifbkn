@@ -13,13 +13,13 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
-- A passionate Self-taught Backend developer
-- Playing CTF's at spare time in [Hack The Box](https://www.hackthebox.com/) and [PortSwigger](https://portswigger.net/).
-- I’m currently open for an Intern or a new job opportunity.
+- A passionate Self-taught Web Application developer
+- I'm learning Frontend development using NextJS with TypeScript
+- I’m currently open for a new job opportunity.
+<!--  - Playing CTF's at spare time in [Hack The Box](https://www.hackthebox.com/) and [PortSwigger](https://portswigger.net/).-->
+
 
 <br>
 
@@ -35,18 +35,16 @@
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <br>   
     
 - **Frameworks and ORM**:
-  
-  ![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
+
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
-
   ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <br>
 
@@ -61,8 +59,7 @@
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+  
 
 </p>
 
@@ -102,7 +99,7 @@
 <ul>
 
 <li>
-<a href="www.linkedin.com/in/arif-bordones-sierra-3a184323b" target="_blank">
+<a href="https://www.linkedin.com/in/arif-bordones-sierra-3a184323b/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Arif Bordones-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -110,7 +107,7 @@
 <br>
 
 <li>
-<a href="arif.bordones@alumnos.ucn.cl" target="_blank">
+<a href="mailto:arif.bordones@alumnos.ucn.cl" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Arif Bordones-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
