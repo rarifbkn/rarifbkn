@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hola soy Arif Bordones </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&weight=800&size=25&pause=1000&color=6B42F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Autodidacta+FullStack+Developer;Ingeniero+en+Tecnolog%C3%ADas+de+informaci%C3%B3n+;Amo+aprender+el+%C2%BFpor+qu%C3%A9?+de+las+cosas+%3C3" alt="Typing SVG" /></a>
-</p>
+<section align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&duration=4000&pause=1000&color=651AF7&center=true&vCenter=true&width=435&lines=Ingeniero+en+Tecnolog%C3%ADas+de+Informaci%C3%B3n;Desarrollador+Full-Stack;Autodidacta" alt="Typing SVG" /></a>
+</section>
 
 
 <br>
@@ -25,10 +25,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías</b>
 <br>
 
-<p align="center">
+<section>
 
 - **Lenguajes**:
     
@@ -79,7 +79,7 @@
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  
 
-</p>
+</section>
 
 <br>
 
@@ -99,8 +99,7 @@
 
 [-----]: #
 
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG83MXYyZXIzamphdTUwd3NhNjNjbGF4eXJyZDIyc3A2aTlrOXVsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/POHHHBbtATeVA4qMY6/giphy.gif" alt="contact icon" width="50px"/><b>Contacto</b>
 <br>
 <div align='left'>
 
@@ -115,7 +114,7 @@
 <br>
 
 <li>
-<a href="mailto:arif.bordones@alumnos.ucn.cl" target="_blank">
+<a href="mailto:arif.bordones@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Arif Bordones-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
